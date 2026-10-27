@@ -1,0 +1,11 @@
+Vardas Pavarde ND1 ND2 ND3 ND4 ND5 Egzaminas
+Jonas Jonaitis 8 9 10 7 9 10
+Petras Petraitis 6 7 8 6 7 8
+Ona Onaite 10 9 10 10 9 10
+Tomas Tomaitis 5 6 7 5 6 6
+Ieva Ievaite 9 10 8 9 10 9
+Mantas Mantaitis 4 5 6 4 5 5
+Greta Gretaite 10 10 9 10 10 10
+Lukas Lukaitis 7 8 9 7 8 8
+Austeja Austejaite 8 9 8 10 9 9
+Karolis Karolaitis 6 5 7 6 5 7

@@ -1,0 +1,32 @@
+# Visual Studio
+.vs/
+out/
+build/
+x64/
+Debug/
+Release/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Compiled files
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.lib
+*.dll
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+
+# Generated student files
+studentai*_new.txt
+vargsiukai*.txt
+kietiakiai*.txt
